@@ -1,0 +1,13 @@
+.boletim-container {
+    padding: 20px;
+}
+
+.boletim-container {
+    margin: 0;
+    margin-bottom: 2px;
+}
+
+.boletim-container .media {
+    border-top: 2px solid ;
+    padding: 5px;
+}

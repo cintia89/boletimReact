@@ -1,0 +1,7 @@
+.container {
+    background-color: aquamarine;
+    display: grid;
+    grid-template:
+     "pri seg" 
+     "ter quar";
+}
